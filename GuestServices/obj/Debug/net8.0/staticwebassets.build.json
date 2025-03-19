@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BT75iXVPt1V6O7c7o8foAyFcZj3Nkj4o1i98emC17No=",
+  "Source": "GuestServices",
+  "BasePath": "_content/GuestServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
